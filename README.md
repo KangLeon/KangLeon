@@ -4,12 +4,11 @@
 
 ### 自律
 
-https://github.com/KangLeon/KangLeon/assets/22131650/4d4e27ce-cf90-4506-930a-9eeeca0531fe
+https://github.com/KangLeon/KangLeon/assets/22131650/3b98fe6f-ba50-4732-b6c1-fd43ec513b53
 
 ### 珍惜时间
 
 https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e0798437205c
-
 
 ### 主要技术栈：
 
