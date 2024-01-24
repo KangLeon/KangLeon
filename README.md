@@ -18,10 +18,14 @@ https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e07
 
 ![9a504fc2d5628535566f21249eef76c6a7ef632c](https://github.com/KangLeon/KangLeon/assets/22131650/cfb34364-9b97-4a50-bb53-56bebd6b57ad)![bd0c4daaf1e1e16f342e5729236cd38c_fullsize](https://github.com/KangLeon/KangLeon/assets/22131650/b03eb254-be96-4df7-861a-9f1e44dd54a9)![WechatIMG62](https://github.com/KangLeon/KangLeon/assets/22131650/51ac3e80-e67b-40ae-8cb1-20e69cb60bb5)
 
+### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangLeon&show_icons=true)
 
+### 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLeon&layout=donut-vertical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+### 语言统计
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KangLeon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
