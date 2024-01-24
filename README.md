@@ -24,8 +24,5 @@ https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e07
 ### 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLeon&layout=donut-vertical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-### 语言统计
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KangLeon)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
