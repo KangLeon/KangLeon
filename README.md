@@ -20,8 +20,7 @@ https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e07
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangLeon&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLeon&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLeon&layout=donut-vertical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
