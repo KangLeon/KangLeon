@@ -26,6 +26,9 @@ https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e07
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangLeon&show_icons=true)
 
+### Coding 时长
+![编程时长](https://wakatime.com/badge/user/018d39a0-9168-48f3-bd8e-6478c49a8d02.svg)
+
 ### 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangLeon&layout=donut-vertical&hide=html,Makefile,Objective-C++,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
