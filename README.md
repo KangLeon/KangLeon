@@ -35,3 +35,6 @@ https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e07
 ### 语言统计
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KangLeon)](https://github.com/anuraghazra/github-readme-stats)
 
+### 我的社交媒体
+![14351744344746_ pic_hd](https://github.com/user-attachments/assets/36fc77d1-8a34-42cc-9bbe-431d44be8e5f)![14341744344716_ pic_hd](https://github.com/user-attachments/assets/a6fb3092-089d-405a-a615-548f7af29940)
+
