@@ -10,9 +10,9 @@ https://github.com/KangLeon/KangLeon/assets/22131650/3b98fe6f-ba50-4732-b6c1-fd4
 
 https://github.com/KangLeon/KangLeon/assets/22131650/1dfc04f8-6eba-4d22-8708-e0798437205c
 
-### 主要技术栈：
+### 技能树：
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPqy6TFA=/?moveToViewport=-1815,1153,1701,1084&embedId=717586107350" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<img width="2278" alt="Full Stack" src="https://github.com/user-attachments/assets/ccd3b6d6-ce2c-494a-bbe3-d0b157bda741" />
 
 ### 工作经历：
 
